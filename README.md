@@ -1,4 +1,4 @@
-# EDA and Feature Engineering
+# Exploratory Data Analysis (EDA) and Feature Engineering
 
 A practical repository for learning and implementing Exploratory Data Analysis (EDA), Data Cleaning & Preprocessing, and Feature Engineering techniques with hands-on projects.
 
@@ -29,19 +29,6 @@ A practical repository for learning and implementing Exploratory Data Analysis (
 - Python, Pandas, NumPy, Scikit-learn
 - Matplotlib, Seaborn for visualization
 - Jupyter Notebook
-
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/ayush2041/EDA-and-Feature-engineering.git
-pip install -r requirements.txt
-jupyter notebook
 ```
-
-## 📖 Learning Resources
-
-Explore the notebooks folder for detailed implementations and explanations of EDA, data preprocessing, feature engineering, and project walkthroughs.
-
----
-
+```
 **Author:** [Ayush](https://github.com/ayush2041)
