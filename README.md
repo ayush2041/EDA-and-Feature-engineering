@@ -29,6 +29,4 @@ A practical repository for learning and implementing Exploratory Data Analysis (
 - Python, Pandas, NumPy, Scikit-learn
 - Matplotlib, Seaborn for visualization
 - Jupyter Notebook
-```
-```
 **Author:** [Ayush](https://github.com/ayush2041)
